@@ -13,7 +13,7 @@ public class StudentRunner {
         System.out.println(student1.getName() + "'s new score: " + student1.getScore());    // Outputs: Sam's new score: 88
         
         //SCOREHACKER
-        ScoreHacker hacker = new ScoreHacker(student1, 50);
+        ScoreHacker hacker = new ScoreHacker();
     
     }
 }

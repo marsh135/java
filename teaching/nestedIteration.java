@@ -1,4 +1,4 @@
-package Projects;
+package teaching;
 
 public class nestedIteration {
     public static void main(String[] args) {

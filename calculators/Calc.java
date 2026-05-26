@@ -1,4 +1,4 @@
-package Projects;
+package calculators;
 
 public class Calc {
 

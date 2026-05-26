@@ -1,4 +1,4 @@
-package Projects;
+package escapeRooms;
 import java.util.Scanner;
 
 

@@ -1,4 +1,4 @@
-package Projects;
+package escapeRooms;
 
 public class Typewriter {
 

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
-public class Main {
+public class chessTerminal {
   
   public static class piece{
     String type = "WP";
