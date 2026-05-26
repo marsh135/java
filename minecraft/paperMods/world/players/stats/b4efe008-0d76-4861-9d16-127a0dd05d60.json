@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 2,
+      "minecraft:spider": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:lead": 1,
+      "minecraft:dirt": 505,
+      "minecraft:clay_ball": 16,
+      "minecraft:cobblestone": 329,
+      "minecraft:sand": 216,
+      "minecraft:wheat_seeds": 14,
+      "minecraft:sandstone": 48,
+      "minecraft:leather": 2
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:snowball": 1,
+      "minecraft:dirt": 4
+    },
+    "minecraft:used": {
+      "minecraft:snowball": 325,
+      "minecraft:cobblestone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 118888,
+      "minecraft:walk_one_cm": 21479,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 984,
+      "minecraft:damage_taken": 4150,
+      "minecraft:damage_dealt": 10325,
+      "minecraft:play_time": 175446,
+      "minecraft:jump": 57,
+      "minecraft:time_since_death": 118855,
+      "minecraft:drop": 5,
+      "minecraft:sprint_one_cm": 481,
+      "minecraft:fall_one_cm": 325,
+      "minecraft:total_world_time": 175446,
+      "minecraft:fly_one_cm": 231343,
+      "minecraft:walk_on_water_one_cm": 261,
+      "minecraft:deaths": 5
+    }
+  },
+  "DataVersion": 4790
+}
