@@ -197,4 +197,9 @@ public class StudentTestScores extends GBFrame{
         averageField.setNumber(s.getAverage());
         indexField.setNumber(indexSelectedStudent);
     }
+
+    public void setVisible(boolean b) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setVisible'");
+    }
 }
